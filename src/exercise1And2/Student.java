@@ -1,10 +1,12 @@
+package exercise1And2;
+
 public class Student {
     private String nome;
     private String cognome;
     private String identificativo;
 
 
-    public Student(String nome, String cognome, String identificativo){
+    public Student(String nome, String cognome, String identificativo) {
         this.nome = nome;
         this.cognome = cognome;
         this.identificativo = identificativo;
