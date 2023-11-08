@@ -1,4 +1,4 @@
-package exercise1And2;
+package exercise12And3;
 
 public class Student {
     private String nome;
