@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Animale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Gatto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Main.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 4  Ereditarietà 1:">
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Triangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699458776863</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercise 4  Ereditarietà 1:">
+      <option name="closed" value="true" />
+      <created>1699532761550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699532761550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Exercise 4  Ereditarietà 1:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 4  Ereditarietà 1:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
