@@ -1,4 +1,4 @@
-package Exercise5;
+package Exercise5and6;
 
 public class Triangolo extends Forma {
     void calcolaArea(){
