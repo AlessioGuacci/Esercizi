@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5  Ereditarietà 2:">
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/rectangle.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
+      <change afterPath="$PROJECT_DIR$/src/Esercizio5/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio5/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +136,39 @@
       <option name="project" value="LOCAL" />
       <updated>1699540434565</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercise 5  Ereditarietà 2:">
+      <option name="closed" value="true" />
+      <created>1699616498295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699616498295</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exercise 5 and 6: ereditarieta e polimorfismo">
+      <option name="closed" value="true" />
+      <created>1699616585144</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699616585144</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Exercise 5 and 6: ereditarieta e polimorfismo">
+      <option name="closed" value="true" />
+      <created>1699616632812</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699616632812</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
+      <option name="closed" value="true" />
+      <created>1699616790301</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699616790301</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +186,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Exercise 4  Ereditarietà 1:" />
     <MESSAGE value="Exercise 5  Ereditarietà 2:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5  Ereditarietà 2:" />
+    <MESSAGE value="Exercise 5 and 6: ereditarieta e polimorfismo" />
+    <MESSAGE value="Exercise 5 and 6: ereditarieta 2 e polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5 and 6: ereditarieta 2 e polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
