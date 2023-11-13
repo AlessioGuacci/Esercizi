@@ -6,6 +6,6 @@ public class main {
         Forma forma = new Forma();
 
         forma.calcolaArea(2,6);
-        rettangolo.calcolaArea(9,5);
+        rettangolo.calcolaArea(8,6);
     }
 }

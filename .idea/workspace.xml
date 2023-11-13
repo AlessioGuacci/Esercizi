@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio5/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio5/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Forma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise5and6/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699616790301</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
+      <option name="closed" value="true" />
+      <created>1699893093260</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699893093260</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
