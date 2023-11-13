@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5: Ereditarietà 2">
-      <change afterPath="$PROJECT_DIR$/src/Exercise6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 6: Polimorfismo">
+      <change afterPath="$PROJECT_DIR$/src/Exercise7/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7/Triangolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699894253501</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Exercise 6: Polimorfismo">
+      <option name="closed" value="true" />
+      <created>1699894776720</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699894776720</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +218,8 @@
     <MESSAGE value="Exercise 5 and 6: ereditarieta e polimorfismo" />
     <MESSAGE value="Exercise 5 and 6: ereditarieta 2 e polimorfismo" />
     <MESSAGE value="Exercise 5: Ereditarietà 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5: Ereditarietà 2" />
+    <MESSAGE value="Exercise 6: Polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6: Polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
