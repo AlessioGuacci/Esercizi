@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 6: Polimorfismo">
-      <change afterPath="$PROJECT_DIR$/src/Exercise7/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise7/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise7/Triangolo.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 7: Le classi astratte">
+      <change afterPath="$PROJECT_DIR$/src/Exercise8/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -197,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699894776720</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exercise 7: Le classi astratte">
+      <option name="closed" value="true" />
+      <created>1699897591554</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699897591554</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +228,8 @@
     <MESSAGE value="Exercise 5 and 6: ereditarieta 2 e polimorfismo" />
     <MESSAGE value="Exercise 5: Ereditarietà 2" />
     <MESSAGE value="Exercise 6: Polimorfismo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 6: Polimorfismo" />
+    <MESSAGE value="Exercise 7: Le classi astratte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 7: Le classi astratte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
