@@ -2,8 +2,8 @@ package Exercise8;
 
 public class Triangolo implements Forma{
 
-    private double height;
-    private double base;
+    public double height;
+    public double base;
 
 
     @Override

@@ -2,8 +2,8 @@ package Exercise8;
 
 public class Rettangolo implements Forma {
 
-    private double length;
-    private double width;
+    public double length;
+    public double width;
 
     @Override
     public void calcolaArea(double length, double width) {
