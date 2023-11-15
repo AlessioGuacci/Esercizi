@@ -6,7 +6,7 @@ public class Main {
         Triangolo triangolo= new Triangolo();
 
         System.out.println(rettangolo.calcolaArea(6,9));
-        System.out.println(triangolo.calcolaArea(10,7));;
+        System.out.println(triangolo.calcolaArea(10,7));
     }
 
 }
