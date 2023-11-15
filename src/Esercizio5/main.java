@@ -9,3 +9,4 @@ public class main {
         System.out.println(rettangolo.calcolaArea(7,8));
     }
 }
+//potrebbe essere piu pulito ma devo andare avanti
