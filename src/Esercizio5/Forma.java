@@ -6,10 +6,10 @@ public class Forma {
     //per trovare larea e questa la lascio cosi. potevo anche stampare una frase per dimostrae meglio il overdirve
      double length;
      double width;
-    void calcolaArea(double length, double width){
+    public double calcolaArea(double length, double width){
         this.length= length;
         this.width= width;
         double area= length * width;
-        System.out.println(area);
+        return area;
     }
 }

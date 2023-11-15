@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio5/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlessioGuacci"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="325de6c2-f174-425a-b2f9-ad3b957cae4f" />
+        <option name="url" value="https://github.com/AlessioGuacci/Esercizi.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -212,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699977918022</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exercise 8: le interfacce">
+      <option name="closed" value="true" />
+      <created>1699978033107</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699978033107</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +245,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

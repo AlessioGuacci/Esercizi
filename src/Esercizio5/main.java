@@ -5,7 +5,7 @@ public class main {
         Rettangolo rettangolo= new Rettangolo();
         Forma forma = new Forma();
 
-        forma.calcolaArea(2,6);
-        rettangolo.calcolaArea(8,6);
+        System.out.println(forma.calcolaArea(2,6));
+        System.out.println(rettangolo.calcolaArea(7,8));
     }
 }

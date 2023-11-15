@@ -6,8 +6,8 @@ public class Triangolo extends Forma {
     private double height;
     private double base;
 
-    void calcolaArea(double height, double base){
+    public double calcolaArea(double height, double base){
         double area = ((height * base)/2);
-        System.out.println(area);
+        return area;
     }
 }
