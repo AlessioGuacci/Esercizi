@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce (rifatto 8)">
-      <change afterPath="$PROJECT_DIR$/src/Exercise9/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise9/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise9/Triangolo.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 9: Enum">
+      <change afterPath="$PROJECT_DIR$/src/Exercise10/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise10/confrontation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -279,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700044834124</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Exercise 9: Enum">
+      <option name="closed" value="true" />
+      <created>1700049812374</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1700049812374</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +317,8 @@
     <MESSAGE value="Exercise 8: le interfacce" />
     <MESSAGE value="Exercise 8: le interfacce (rifatto 5 e 6)" />
     <MESSAGE value="Exercise 8: le interfacce (rifatto 8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 8: le interfacce (rifatto 8)" />
+    <MESSAGE value="Exercise 9: Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 9: Enum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
