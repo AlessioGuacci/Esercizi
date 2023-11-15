@@ -4,7 +4,7 @@ public class Main {
     public static void main (String[] args) {
         Triangolo triangolo = new Triangolo();
 
-        System.out.println(triangolo.calcolaArea(7,8));
+        System.out.println(triangolo.calcolaArea(6,8));
 
 
 
