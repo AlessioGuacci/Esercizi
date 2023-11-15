@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce (rifatto 5 e 6)">
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce (rifatto 8)">
+      <change afterPath="$PROJECT_DIR$/src/Exercise9/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise9/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise9/Triangolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Forma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,9 @@
         <option name="url" value="https://github.com/AlessioGuacci/Esercizi.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Exercise9/Forma.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -260,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700044385223</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Exercise 8: le interfacce (rifatto 8)">
+      <option name="closed" value="true" />
+      <created>1700044809322</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044809322</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Exercise 8: le interfacce (rifatto 8)">
+      <option name="closed" value="true" />
+      <created>1700044834124</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044834124</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +310,8 @@
     <MESSAGE value="Exercise 7: Le classi astratte" />
     <MESSAGE value="Exercise 8: le interfacce" />
     <MESSAGE value="Exercise 8: le interfacce (rifatto 5 e 6)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 8: le interfacce (rifatto 5 e 6)" />
+    <MESSAGE value="Exercise 8: le interfacce (rifatto 8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 8: le interfacce (rifatto 8)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -300,6 +320,11 @@
           <url>file://$PROJECT_DIR$/exercise 3/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercise9/Forma.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
