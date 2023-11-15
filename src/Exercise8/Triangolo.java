@@ -7,11 +7,10 @@ public class Triangolo implements Forma{
 
 
     @Override
-    public void calcolaArea(double height, double base) {
+    public double calcolaArea(double height, double base) {
         this.height=height;
         this.base=base;
-        double area = ((height*base)/2);
-        System.out.println(area);
+        return ((height*base)/2);
 
     }
 }

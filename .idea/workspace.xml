@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce">
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 8: le interfacce (rifatto 5 e 6)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Esercizio5/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/Forma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/Rettangolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Esercizio5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio5/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6/Triangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Rettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8/Triangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +236,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699978033107</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Exercise 8: le interfacce (rifatto 5 e 6)">
+      <option name="closed" value="true" />
+      <created>1700044056656</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044056656</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Exercise 8: le interfacce (rifatto 5 e 6)">
+      <option name="closed" value="true" />
+      <created>1700044264809</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044264809</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Exercise 8: le interfacce (rifatto 5 e 6)">
+      <option name="closed" value="true" />
+      <created>1700044385223</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1700044385223</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,7 +290,8 @@
     <MESSAGE value="Exercise 6: Polimorfismo" />
     <MESSAGE value="Exercise 7: Le classi astratte" />
     <MESSAGE value="Exercise 8: le interfacce" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 8: le interfacce" />
+    <MESSAGE value="Exercise 8: le interfacce (rifatto 5 e 6)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 8: le interfacce (rifatto 5 e 6)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

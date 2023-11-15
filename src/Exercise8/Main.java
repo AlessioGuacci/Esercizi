@@ -5,8 +5,8 @@ public class Main {
         Rettangolo rettangolo= new Rettangolo();
         Triangolo triangolo= new Triangolo();
 
-        rettangolo.calcolaArea(7,9);
-        triangolo.calcolaArea(10,7);
+        System.out.println(rettangolo.calcolaArea(6,9));
+        System.out.println(triangolo.calcolaArea(10,7));;
     }
 
 }
