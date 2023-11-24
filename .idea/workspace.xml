@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 1 JA: Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise2/CharChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise2/CharacterException.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 2 JA: Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestConNicola/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingThingsOut/Supercar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingThingsOut/TestAuto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise2/CharChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise2/CharChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingThingsOut/TestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700654690810</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Exercise 2 JA: Exceptions">
+      <option name="closed" value="true" />
+      <created>1700666965998</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1700666965998</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +358,8 @@
     <MESSAGE value="Exercise 10: StringBuilder" />
     <MESSAGE value="Exercise 11: StringBuilder 2" />
     <MESSAGE value="Exercise 1 JA: Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 JA: Exceptions" />
+    <MESSAGE value="Exercise 2 JA: Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 JA: Exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

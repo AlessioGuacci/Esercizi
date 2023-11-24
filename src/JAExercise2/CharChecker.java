@@ -3,9 +3,9 @@ package JAExercise2;
 public class CharChecker {
     public static void main(String[] Args) {
         char[] characters = {'a', '3', '7', 'c'};
-        for (char c : characters) {
+        for (char i : characters) {
             try {
-                boolean result = characterChecker(c);
+                boolean result = characterChecker(i);
                 System.out.println(result);
             } catch (CharacterException e) {
                 System.out.println(e.getMessage());
