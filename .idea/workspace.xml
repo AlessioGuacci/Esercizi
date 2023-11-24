@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 2 JA: Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestConNicola/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingThingsOut/Supercar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingThingsOut/TestAuto.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 3 JA: Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise4/ArrayDivider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise2/CharChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise2/CharChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingThingsOut/TestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +317,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700666965998</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Exercise 3 JA: Exceptions">
+      <option name="closed" value="true" />
+      <created>1700845358351</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1700845358351</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Exercise 3 JA: Exceptions">
+      <option name="closed" value="true" />
+      <created>1700845410678</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1700845410678</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +370,8 @@
     <MESSAGE value="Exercise 11: StringBuilder 2" />
     <MESSAGE value="Exercise 1 JA: Exceptions" />
     <MESSAGE value="Exercise 2 JA: Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 JA: Exceptions" />
+    <MESSAGE value="Exercise 3 JA: Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 3 JA: Exceptions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,6 +386,10 @@
           <line>4</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
