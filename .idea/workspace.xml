@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5 JA: Nullability">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise5/IsItNull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701099337426</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Exercise 5 JA: Nullability">
+      <option name="closed" value="true" />
+      <created>1701100450711</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1701100450711</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,11 +410,6 @@
           <url>file://$PROJECT_DIR$/src/Exercise9/Forma.java</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JAExercise5/IsItNull.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
