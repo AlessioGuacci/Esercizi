@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5 JA: Nullability">
-      <change beforePath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise3/NumberDivider.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 5 JA: Nullability (aggiornato anche es. 3)">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise6/VariousFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701100450711</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Exercise 5 JA: Nullability (aggiornato anche es. 3)">
+      <option name="closed" value="true" />
+      <created>1701100801905</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1701100801905</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +405,8 @@
     <MESSAGE value="Exercise 3 JA: Exceptions" />
     <MESSAGE value="Exercise 4 JA: Exceptions" />
     <MESSAGE value="Exercise 5 JA: Nullability" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5 JA: Nullability" />
+    <MESSAGE value="Exercise 5 JA: Nullability (aggiornato anche es. 3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5 JA: Nullability (aggiornato anche es. 3)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
