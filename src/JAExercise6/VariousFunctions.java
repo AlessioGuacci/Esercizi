@@ -12,14 +12,14 @@ public class VariousFunctions {
 
     //questi sotto sarebbe Unboxing
     if(d== 7){
-        System.out.println("Integer is true");
+        System.out.println("Integer is " + d);
     }
     if (e== 3.14){
-        System.out.println("Double is true");
+        System.out.println("Double is " + e);
     }
 
     if (f=='$'){
-        System.out.println("Character is true");
+        System.out.println("Character is " + f);
     }
 
     //i vari funzioni richiesti e stampati
