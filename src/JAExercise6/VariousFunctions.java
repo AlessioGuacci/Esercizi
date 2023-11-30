@@ -2,8 +2,8 @@ package JAExercise6;
 
 public class VariousFunctions {
     public static void main(String[] args) {
-    int a= 5;
-    int b= 6;
+
+
 
         //questi sotto sarebbe Autoboxing giusto? chiedo perche ho visto un video online per linglese.
     Integer d = 7;
@@ -11,18 +11,19 @@ public class VariousFunctions {
     Character f = '$';
 
     //questi sotto sarebbe Unboxing
-    if(d== 7){
-        System.out.println("Integer is " + d);
-    }
-    if (e== 3.14){
-        System.out.println("Double is " + e);
-    }
+//    if(d== 7){
+//        System.out.println("Integer is " + d);
+//    }
+//    if (e== 3.14){
+//        System.out.println("Double is " + e);
+//    }
+//
+//    if (f=='$'){
+//        System.out.println("Character is " + f);
+//    }
 
-    if (f=='$'){
-        System.out.println("Character is " + f);
-    }
-
-    //i vari funzioni richiesti e stampati
+ int a= 3;
+ Integer b = a;
 
     Character c = 'c'; //potevo pure inserire direttamente senza creare sto variabile
         System.out.println(addInts(a,b));
@@ -30,11 +31,11 @@ public class VariousFunctions {
         System.out.println(integerAdder(6,7));
         System.out.println(printCharacter(c));
     }
-    public static int addInts(int firstInt, int secondInt){
+    public static Integer addInts(int firstInt, int secondInt){
         return firstInt + secondInt;
     }
 
-    public static char printChar(char charInput){
+    public static char printChar(Character charInput){
         return charInput;
     }
 

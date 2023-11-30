@@ -1,17 +1,20 @@
 package TestingThingsOut;
 
+
+import java.util.HashSet;
+
 public class TestMain {
     public static void main(String[] Args) {
 
-      int [] numbers = {2,5,6,3};
-      int sum = 0;
-      for(int i=0;i<numbers.length;i++){
-          sum+=numbers[i];
-      }
-        System.out.println(sum);
+        }
 
-      }
+        public static HashSet <String> hashSetTest(HashSet <String> input){
+            input.add("hey");
+            input.add("your");
+            return input;
+        }
     }
+
 
 
 
