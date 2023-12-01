@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-//ho fatto tutto solo prometto solo avevi ragione meglio vede obbietivo per obbietivo
+//ho fatto tutto solo prometto, avevi ragione meglio vede obbietivo per obbietivo
 public class HashSetMain {
     public static void main(String[] args) {
         String a = "this is string";
