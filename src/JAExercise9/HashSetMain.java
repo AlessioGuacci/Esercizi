@@ -1,15 +1,16 @@
 package JAExercise9;
 
 import java.util.HashSet;
-import java.util.Objects;
+import java.util.Iterator;
 import java.util.Set;
 
-//ho fatto tutto solo prometto, avevi ragione meglio vede obbietivo per obbietivo
+//fatto sempre solo ma non trovavo la syntax giusto quindi ho messo un po
 public class HashSetMain {
     public static void main(String[] args) {
         String a = "this is string";
-        String obj = new String(a);
+        String obj = a;
         HashSet hashSet= new HashSet<>();
+        hashSet.add("this is new string");
         fillUp(hashSet);
         System.out.println(hashSet);
         System.out.println(comparison(hashSet,obj));
@@ -23,13 +24,18 @@ public class HashSetMain {
         return hashSetInput;
     }
     public static HashSet<String> comparison (HashSet <String> hashSetInput, String objInput){
-       for (String i : hashSetInput){
-           if (Objects.equals(i, objInput)){
-               hashSetInput.remove(objInput);
+        Iterator <String> it = hashSetInput.iterator();
+        while (it.hasNext()){
+            String contents = it.next();
+            if (contents.equals(objInput)){
+                it.remove();
+                break;
+            }
+
            }
-       }
-       return hashSetInput;
+        return hashSetInput;
     }
+
 }
 
 
