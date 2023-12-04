@@ -14,8 +14,13 @@ public class StudentMain {
 
         Student student3= new Student("Marcella", 29);
         Student student4= new Student("Nicola", 25); //youre only as young as you feel ;)
+        Student student5= new Student("Kevin", 27);
+        Student student6= new Student("Maria", 23);
+
         studentList.add(2, student3);
-        studentList.add(3,student4);
+        studentList.add(3, student4);
+        studentList.add(4, student5);
+        studentList.add(5, student6);
         System.out.println("the new list is " + studentList);
 
 
