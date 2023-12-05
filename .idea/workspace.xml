@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 11 JA: Arraylist">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise12/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise12/FruitMain.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 12 JA: LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise13/Hashmap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -462,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701707563640</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Exercise 12 JA: LinkedList">
+      <option name="closed" value="true" />
+      <created>1701709560853</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1701709560853</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 5  Ereditarietà 2:" />
     <MESSAGE value="Exercise 5 and 6: ereditarieta e polimorfismo" />
     <MESSAGE value="Exercise 5 and 6: ereditarieta 2 e polimorfismo" />
     <MESSAGE value="Exercise 5: Ereditarietà 2" />
@@ -508,7 +514,8 @@
     <MESSAGE value="Exercise 9 JA: HashSet (rifatto tutto)" />
     <MESSAGE value="Exercise 10 JA: Arraylist" />
     <MESSAGE value="Exercise 11 JA: Arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 11 JA: Arraylist" />
+    <MESSAGE value="Exercise 12 JA: LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 12 JA: LinkedList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
