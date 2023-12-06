@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 15 JA: Record">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise16/Date.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 16 JA: Date">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise17/Date1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00004" summary="initial commit">
-      <option name="closed" value="true" />
-      <created>1699374068495</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1699374068495</updated>
     </task>
     <task id="LOCAL-00005" summary="initial commit">
       <option name="closed" value="true" />
@@ -469,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701794931059</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Exercise 16 JA: Date">
+      <option name="closed" value="true" />
+      <created>1701863810570</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1701863810570</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 6: Polimorfismo" />
     <MESSAGE value="Exercise 7: Le classi astratte" />
     <MESSAGE value="Exercise 8: le interfacce" />
     <MESSAGE value="Exercise 8: le interfacce (rifatto 5 e 6)" />
@@ -515,7 +514,8 @@
     <MESSAGE value="Exercise 13 JA: HashMap" />
     <MESSAGE value="Exercise 14 JA: HashMap" />
     <MESSAGE value="Exercise 15 JA: Record" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 15 JA: Record" />
+    <MESSAGE value="Exercise 16 JA: Date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 16 JA: Date" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,6 +537,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="5" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.time.format.DateTimeParseException" package="java.time.format" />
+          <option name="timeStamp" value="6" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
