@@ -9,7 +9,7 @@ class PreviousExerciseTest {
     @Test
     void rangeCheckerTest(){
         PreviousExercise exercise = new PreviousExercise();
-        assertTrue(exercise.rangeChecker(1,5,3));
+        assertTrue(PreviousExercise.rangeChecker(1,5,3));
 
     }
 }
