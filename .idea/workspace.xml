@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 19 JA: Date">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise20/Date3.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 20 JA: Date">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise21/PreviousExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise21/PreviousExerciseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AllExercises.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -55,19 +58,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aless/Desktop/Warehouse&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aless/Desktop/exercises/untitled/exercise 3/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "last_opened_file_path": "C:/Users/aless/Desktop/Warehouse",
+    "onboarding.tips.debug.path": "C:/Users/aless/Desktop/exercises/untitled/exercise 3/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="JAExercise21" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,14 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Exercise 5  Ereditarietà 2:">
-      <option name="closed" value="true" />
-      <created>1699540434565</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1699540434565</updated>
     </task>
     <task id="LOCAL-00010" summary="Exercise 5  Ereditarietà 2:">
       <option name="closed" value="true" />
@@ -469,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701876168910</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Exercise 20 JA: Date">
+      <option name="closed" value="true" />
+      <created>1701877153821</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1701877153822</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 8: le interfacce (rifatto 8)" />
     <MESSAGE value="Exercise 9: Enum" />
     <MESSAGE value="Exercise 10: StringBuilder" />
     <MESSAGE value="Exercise 11: StringBuilder 2" />
@@ -515,7 +532,8 @@
     <MESSAGE value="Exercise 17 JA: Date" />
     <MESSAGE value="Exercise 18 JA: Date" />
     <MESSAGE value="Exercise 19 JA: Date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 19 JA: Date" />
+    <MESSAGE value="Exercise 20 JA: Date" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 20 JA: Date" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,11 +547,6 @@
           <url>file://$PROJECT_DIR$/src/Exercise9/Forma.java</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JAExercise19/Date3.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
