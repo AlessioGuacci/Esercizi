@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 20 JA: Date">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise21/PreviousExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise21/PreviousExerciseTest.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 21 JA: Test 1">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise22/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AllExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AllExercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/Supercar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,31 +58,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/Users/aless/Desktop/Warehouse",
-    "onboarding.tips.debug.path": "C:/Users/aless/Desktop/exercises/untitled/exercise 3/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aless/Desktop/Warehouse&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aless/Desktop/exercises/untitled/exercise 3/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="JAExercise22" />
+      <recent name="JAExercise16" />
       <recent name="JAExercise21" />
     </key>
   </component>
@@ -94,22 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Exercise 5  Ereditarietà 2:">
-      <option name="closed" value="true" />
-      <created>1699616498295</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1699616498295</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Exercise 5 and 6: ereditarieta e polimorfismo">
-      <option name="closed" value="true" />
-      <created>1699616585144</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1699616585144</updated>
     </task>
     <task id="LOCAL-00012" summary="Exercise 5 and 6: ereditarieta e polimorfismo">
       <option name="closed" value="true" />
@@ -487,7 +473,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701877153822</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Exercise 21 JA: Test 1">
+      <option name="closed" value="true" />
+      <created>1702382467921</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1702382467921</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Exercise 21 JA: Test 1">
+      <option name="closed" value="true" />
+      <created>1702382648312</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1702382648312</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 9: Enum" />
     <MESSAGE value="Exercise 10: StringBuilder" />
     <MESSAGE value="Exercise 11: StringBuilder 2" />
     <MESSAGE value="Exercise 1 JA: Exceptions" />
@@ -533,7 +534,8 @@
     <MESSAGE value="Exercise 18 JA: Date" />
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 20 JA: Date" />
+    <MESSAGE value="Exercise 21 JA: Test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 21 JA: Test 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
