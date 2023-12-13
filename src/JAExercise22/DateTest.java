@@ -1,6 +1,5 @@
 package JAExercise22;
 
-import Exercise4.Main;
 import org.junit.jupiter.api.Test;
 
 import java.time.OffsetDateTime;
