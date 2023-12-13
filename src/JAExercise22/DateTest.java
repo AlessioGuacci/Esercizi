@@ -10,7 +10,6 @@ import java.time.format.FormatStyle;
 import static org.junit.jupiter.api.Assertions.*;
 
 class DateTest {
-    private Main mainTest = new Main();
 
     @Test
     void dateTester() {
