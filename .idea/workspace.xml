@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 21 JA: Test 1">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise22/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 22 JA: Test 2">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise23/Date2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise23/Date2023Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/Supercar.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="JAExercise23" />
       <recent name="JAExercise22" />
       <recent name="JAExercise16" />
       <recent name="JAExercise21" />
@@ -96,30 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Exercise 5 and 6: ereditarieta e polimorfismo">
-      <option name="closed" value="true" />
-      <created>1699616632812</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1699616632812</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
-      <option name="closed" value="true" />
-      <created>1699616790301</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1699616790301</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Exercise 5 and 6: ereditarieta 2 e polimorfismo">
-      <option name="closed" value="true" />
-      <created>1699893093260</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1699893093260</updated>
     </task>
     <task id="LOCAL-00015" summary="Exercise 5: Ereditarietà 2">
       <option name="closed" value="true" />
@@ -489,7 +465,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702382648312</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Exercise 22 JA: Test 2">
+      <option name="closed" value="true" />
+      <created>1702483890990</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1702483890991</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Exercise 22 JA: Test 2">
+      <option name="closed" value="true" />
+      <created>1702483913783</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1702483913783</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Exercise 22 JA: Test 2">
+      <option name="closed" value="true" />
+      <created>1702483986492</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1702483986492</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 10: StringBuilder" />
     <MESSAGE value="Exercise 11: StringBuilder 2" />
     <MESSAGE value="Exercise 1 JA: Exceptions" />
     <MESSAGE value="Exercise 2 JA: Exceptions" />
@@ -535,7 +534,8 @@
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
     <MESSAGE value="Exercise 21 JA: Test 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 21 JA: Test 1" />
+    <MESSAGE value="Exercise 22 JA: Test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 22 JA: Test 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
