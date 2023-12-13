@@ -8,6 +8,11 @@ public class DateSpecifics {
 
     public static void main(String[] args) {
         OffsetDateTime date = OffsetDateTime.parse("2023-03-01T13:00:00Z");
+
+
+    }
+
+    public static void dateFormater1(OffsetDateTime date){
         int dateYear= date.getYear();
         Month dateMonth= date.getMonth();
         int dateDay= date.getDayOfMonth();
