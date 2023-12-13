@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 24 JA: Test 4">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise25/DateAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise22/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 23 JA: Test 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,38 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Exercise 6: Polimorfismo">
-      <option name="closed" value="true" />
-      <created>1699894776720</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1699894776720</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Exercise 7: Le classi astratte">
-      <option name="closed" value="true" />
-      <created>1699897591554</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1699897591554</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Exercise 8: le interfacce">
-      <option name="closed" value="true" />
-      <created>1699977918022</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1699977918022</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Exercise 8: le interfacce">
-      <option name="closed" value="true" />
-      <created>1699978033107</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1699978033107</updated>
     </task>
     <task id="LOCAL-00021" summary="Exercise 8: le interfacce (rifatto 5 e 6)">
       <option name="closed" value="true" />
@@ -491,7 +454,39 @@
       <option name="project" value="LOCAL" />
       <updated>1702486290134</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Exercise 22 JA: Test 2">
+      <option name="closed" value="true" />
+      <created>1702489402434</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1702489402434</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Exercise 23 JA: Test 3">
+      <option name="closed" value="true" />
+      <created>1702489593048</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1702489593048</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Exercise 23 JA: Test 3">
+      <option name="closed" value="true" />
+      <created>1702489684101</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1702489684101</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Exercise 23 JA: Test 3">
+      <option name="closed" value="true" />
+      <created>1702489708581</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1702489708581</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,10 +529,10 @@
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
     <MESSAGE value="Exercise 21 JA: Test 1" />
+    <MESSAGE value="Exercise 24 JA: Test 4" />
     <MESSAGE value="Exercise 22 JA: Test 2" />
     <MESSAGE value="Exercise 23 JA: Test 3" />
-    <MESSAGE value="Exercise 24 JA: Test 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24 JA: Test 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 23 JA: Test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
