@@ -13,6 +13,6 @@ class DateSpecificsTest {
     @Test
     void main() {
         OffsetDateTime dateTest= OffsetDateTime.parse("2023-03-01T13:00:00Z");
-        DateSpecifics.dateFormater1(dateTest);
+        DateSpecifics.dateFormater(dateTest);
     }
 }
