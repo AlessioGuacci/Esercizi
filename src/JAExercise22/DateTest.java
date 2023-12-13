@@ -6,7 +6,7 @@ import java.time.OffsetDateTime;
 
 
 class DateTest {
-    private Date date= new Date();
+
     @Test
     void dateTester() {
         OffsetDateTime date = OffsetDateTime.parse("2002-03-01T13:00:00Z");

@@ -7,6 +7,7 @@ import java.time.format.FormatStyle;
 public class Date2023 {
     public static void main(String[] args) {
         OffsetDateTime date = OffsetDateTime.parse("2023-03-01T13:00:00Z");
+        dateFormater(date);
     }
         public static void dateFormater(OffsetDateTime date) {
             String datePrint = date.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.LONG));
