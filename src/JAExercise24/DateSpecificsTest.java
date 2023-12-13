@@ -2,11 +2,9 @@ package JAExercise24;
 
 import org.junit.jupiter.api.Test;
 
-import java.time.DayOfWeek;
-import java.time.Month;
+
 import java.time.OffsetDateTime;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 class DateSpecificsTest {
 
