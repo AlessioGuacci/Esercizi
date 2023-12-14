@@ -14,8 +14,9 @@ class DateSpecificsTest {
 
     @Test
     void main() {
+        DateSpecifics date = new DateSpecifics();
         OffsetDateTime dateTest= OffsetDateTime.parse("2023-03-01T13:00:00Z");
-        String [] formattedDate= DateSpecifics.dateFormater(dateTest);
+        String [] formattedDate= date.dateFormater(dateTest);
         assertEquals("2023",formattedDate[0]);
         assertEquals("MARCH", formattedDate[1]);
         assertEquals("1",formattedDate[2]);

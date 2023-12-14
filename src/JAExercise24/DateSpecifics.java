@@ -7,13 +7,14 @@ import java.time.OffsetDateTime;
 public class DateSpecifics {
 
     public static void main(String[] args) {
+        DateSpecifics myDate= new DateSpecifics();
         OffsetDateTime date = OffsetDateTime.parse("2023-03-01T13:00:00Z");
-        dateFormater(date);
+        myDate.dateFormater(date);
 
 
     }
 
-    public static String[] dateFormater(OffsetDateTime date){
+    public String[] dateFormater(OffsetDateTime date){
         int dateYear= date.getYear();
         Month dateMonth= date.getMonth();
         int dateDay= date.getDayOfMonth();
