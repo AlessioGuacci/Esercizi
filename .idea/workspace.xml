@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 22 JA: Test 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise23/Date2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise23/Date2023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise23/Date2023Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise23/Date2023Test.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 23 JA: Test 3">
+      <change beforePath="$PROJECT_DIR$/src/JAExercise24/DateSpecifics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise24/DateSpecifics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise24/DateSpecificsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise24/DateSpecificsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Exercise 11: StringBuilder 2">
-      <option name="closed" value="true" />
-      <created>1700145402860</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1700145402860</updated>
     </task>
     <task id="LOCAL-00029" summary="Exercise 1 JA: Exceptions">
       <option name="closed" value="true" />
@@ -490,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702549917267</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Exercise 23 JA: Test 3">
+      <option name="closed" value="true" />
+      <created>1702552399902</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1702552399902</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -533,10 +532,10 @@
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
     <MESSAGE value="Exercise 21 JA: Test 1" />
-    <MESSAGE value="Exercise 23 JA: Test 3" />
     <MESSAGE value="Exercise 24 JA: Test 4" />
     <MESSAGE value="Exercise 22 JA: Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 22 JA: Test 2" />
+    <MESSAGE value="Exercise 23 JA: Test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 23 JA: Test 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

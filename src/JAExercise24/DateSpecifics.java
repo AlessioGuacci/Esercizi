@@ -13,7 +13,7 @@ public class DateSpecifics {
 
     }
 
-    public static void dateFormater(OffsetDateTime date){
+    public static String[] dateFormater(OffsetDateTime date){
         int dateYear= date.getYear();
         Month dateMonth= date.getMonth();
         int dateDay= date.getDayOfMonth();
@@ -22,6 +22,7 @@ public class DateSpecifics {
         System.out.println(dateMonth);
         System.out.println(dateDay);
         System.out.println(dateDayOfTheWeek);
-
+        return new String[]{String.valueOf(dateYear), String.valueOf(dateMonth),
+                String.valueOf(dateDay), String.valueOf(dateDayOfTheWeek)};
     }
 }
