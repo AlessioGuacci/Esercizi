@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 24 JA: Test 4">
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 25 JA: Test 5">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise26/OperazioneAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise26/Values.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise25/DateAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise25/DateAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise25/DateAdderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise25/DateAdderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -97,22 +98,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Exercise 5 JA: Nullability (aggiornato anche es. 3)">
-      <option name="closed" value="true" />
-      <created>1701100801905</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1701100801905</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Exercise 6 JA: Autoboxing and Unboxing">
-      <option name="closed" value="true" />
-      <created>1701186884667</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1701186884668</updated>
     </task>
     <task id="LOCAL-00038" summary="Exercise 6 JA: Autoboxing and Unboxing">
       <option name="closed" value="true" />
@@ -490,7 +475,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702566409059</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Exercise 25 JA: Test 5">
+      <option name="closed" value="true" />
+      <created>1702567270346</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702567270346</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Exercise 25 JA: Test 5">
+      <option name="closed" value="true" />
+      <created>1702567291653</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1702567291653</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,11 +533,11 @@
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
     <MESSAGE value="Exercise 21 JA: Test 1" />
-    <MESSAGE value="Exercise 25 JA: Test 5" />
     <MESSAGE value="Exercise 22 JA: Test 2" />
     <MESSAGE value="Exercise 23 JA: Test 3" />
     <MESSAGE value="Exercise 24 JA: Test 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24 JA: Test 4" />
+    <MESSAGE value="Exercise 25 JA: Test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 25 JA: Test 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
