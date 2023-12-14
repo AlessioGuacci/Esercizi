@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 24 JA: Test 4" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 24 JA: Test 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise22/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,14 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Exercise 9: Enum">
-      <option name="closed" value="true" />
-      <created>1700049812374</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1700049812374</updated>
     </task>
     <task id="LOCAL-00027" summary="Exercise 10: StringBuilder">
       <option name="closed" value="true" />
@@ -486,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702490711548</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Exercise 24 JA: Test 4">
+      <option name="closed" value="true" />
+      <created>1702491136072</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1702491136072</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
