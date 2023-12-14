@@ -14,7 +14,7 @@ public class Values {
         System.out.println(value1);
         System.out.println(value2);
         System.out.println(operation);
-        System.out.println( perfromOperation(value1, value2, operation));;
+        System.out.println( perfromOperation(value1, value2, operation));
     }
 
     public static BigDecimal perfromOperation(BigDecimal value1Input, BigDecimal value2Input, OperazioneAritmetica operation) {
