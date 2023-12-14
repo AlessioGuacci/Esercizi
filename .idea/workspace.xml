@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 25 JA: Test 5">
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 24 JA: Test 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise22/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise22/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise25/DateAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise25/DateAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise25/DateAdderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise25/DateAdderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,30 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Exercise 4 JA: Exceptions">
-      <option name="closed" value="true" />
-      <created>1700848321779</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1700848321779</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Exercise 5 JA: Nullability">
-      <option name="closed" value="true" />
-      <created>1701099337426</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1701099337426</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Exercise 5 JA: Nullability">
-      <option name="closed" value="true" />
-      <created>1701100450711</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1701100450711</updated>
     </task>
     <task id="LOCAL-00036" summary="Exercise 5 JA: Nullability (aggiornato anche es. 3)">
       <option name="closed" value="true" />
@@ -490,7 +466,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702558711162</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Exercise 22 JA: Test 2">
+      <option name="closed" value="true" />
+      <created>1702566127365</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1702566127365</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Exercise 23 JA: Test 3">
+      <option name="closed" value="true" />
+      <created>1702566284360</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1702566284361</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Exercise 24 JA: Test 4">
+      <option name="closed" value="true" />
+      <created>1702566409059</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1702566409059</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,11 +532,11 @@
     <MESSAGE value="Exercise 19 JA: Date" />
     <MESSAGE value="Exercise 20 JA: Date" />
     <MESSAGE value="Exercise 21 JA: Test 1" />
+    <MESSAGE value="Exercise 25 JA: Test 5" />
     <MESSAGE value="Exercise 22 JA: Test 2" />
     <MESSAGE value="Exercise 23 JA: Test 3" />
     <MESSAGE value="Exercise 24 JA: Test 4" />
-    <MESSAGE value="Exercise 25 JA: Test 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 25 JA: Test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 24 JA: Test 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

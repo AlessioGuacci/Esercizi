@@ -8,12 +8,16 @@ import java.util.Locale;
 
 public class DateAdder {
     public static void main(String[] args) {
+        DateAdder myDate= new DateAdder();
         OffsetDateTime date = OffsetDateTime.parse("2023-03-01T13:00:00Z");
-        System.out.println(Arrays.toString(dateformator(date)));
+        String [] formattedDates= myDate.dateformator(date);
+        for(String formattedDate: formattedDates){
+            System.out.println(formattedDate);
+        }
 
     }
 
-        public static String [] dateformator (OffsetDateTime date){
+        public String [] dateformator (OffsetDateTime date){
         OffsetDateTime addYear = date.plusYears(1);
         OffsetDateTime subtractMonth= date.minusMonths(1);
         OffsetDateTime addWeek= date.plusWeeks(1);
