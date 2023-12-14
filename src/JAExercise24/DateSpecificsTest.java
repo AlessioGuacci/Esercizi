@@ -1,6 +1,6 @@
 package JAExercise24;
 
-import JAExercise22.Date;
+
 import org.junit.jupiter.api.Test;
 
 
