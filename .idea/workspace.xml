@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 25 JA: Test 5">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise26/OperazioneAritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise26/Values.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 26 JA: Test OperazioneAritmetica">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise27/TernaryOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,22 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Exercise 6 JA: Autoboxing and Unboxing">
-      <option name="closed" value="true" />
-      <created>1701186950939</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1701186950939</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Exercise 7 JA: HashSet">
-      <option name="closed" value="true" />
-      <created>1701259805259</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1701259805259</updated>
     </task>
     <task id="LOCAL-00040" summary="Exercise 8 JA: HashSet">
       <option name="closed" value="true" />
@@ -491,7 +474,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702567291653</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Exercise 26 JA: Test OperazioneAritmetica">
+      <option name="closed" value="true" />
+      <created>1702572351628</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1702572351628</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Exercise 26 JA: Test OperazioneAritmetica">
+      <option name="closed" value="true" />
+      <created>1702572372971</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1702572372971</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -512,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 3 JA: Exceptions" />
     <MESSAGE value="Exercise 4 JA: Exceptions" />
     <MESSAGE value="Exercise 5 JA: Nullability" />
     <MESSAGE value="Exercise 5 JA: Nullability (aggiornato anche es. 3)" />
@@ -537,7 +535,8 @@
     <MESSAGE value="Exercise 23 JA: Test 3" />
     <MESSAGE value="Exercise 24 JA: Test 4" />
     <MESSAGE value="Exercise 25 JA: Test 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 25 JA: Test 5" />
+    <MESSAGE value="Exercise 26 JA: Test OperazioneAritmetica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 26 JA: Test OperazioneAritmetica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
