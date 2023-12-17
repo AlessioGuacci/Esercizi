@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 26 JA: Test OperazioneAritmetica">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise27/TernaryOperator.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 27 JA: Operatore Ternario">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise28/TernaryOperator2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,14 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Exercise 8 JA: HashSet">
-      <option name="closed" value="true" />
-      <created>1701341926187</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1701341926187</updated>
     </task>
     <task id="LOCAL-00041" summary="Exercise 9 JA: HashSet">
       <option name="closed" value="true" />
@@ -490,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702572372971</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Exercise 27 JA: Operatore Ternario">
+      <option name="closed" value="true" />
+      <created>1702813208598</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1702813208599</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 4 JA: Exceptions" />
     <MESSAGE value="Exercise 5 JA: Nullability" />
     <MESSAGE value="Exercise 5 JA: Nullability (aggiornato anche es. 3)" />
     <MESSAGE value="Exercise 6 JA: Autoboxing and Unboxing" />
@@ -536,7 +535,8 @@
     <MESSAGE value="Exercise 24 JA: Test 4" />
     <MESSAGE value="Exercise 25 JA: Test 5" />
     <MESSAGE value="Exercise 26 JA: Test OperazioneAritmetica" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 26 JA: Test OperazioneAritmetica" />
+    <MESSAGE value="Exercise 27 JA: Operatore Ternario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 27 JA: Operatore Ternario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
