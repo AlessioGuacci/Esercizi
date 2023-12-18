@@ -2,7 +2,6 @@ package JAExercise29;
 
 public class Factory {
 
-    private String name ;
 
     public String returnShape(VariousShapes variousShapes){
         Shape result = null ;
