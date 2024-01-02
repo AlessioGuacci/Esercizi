@@ -7,6 +7,6 @@ public class Main {
          , which based off the shape it is being called upon it will say if it is either a rectangle or a triangle.
         This all will depend on the enum passed as an input paramter. */
 
-        System.out.println(factory.returnShape(VariousShapes.Triangle));
+        //System.out.println(factory.returnShape(VariousShapes.Triangle));
     }
 }

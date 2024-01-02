@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 28 JA: Operatore Ternario 2">
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAExercise29/VariousShapes.java" afterDir="false" />
+    <list default="true" id="94dd9aec-03c9-43df-9acf-de9ea765f604" name="Changes" comment="Exercise 29 JA: Design Patterns - Factory">
+      <change afterPath="$PROJECT_DIR$/src/JAExercise2/CharCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise30/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise30/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAExercise30/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingThingsOut/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAExercise29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAExercise29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/TestAuto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingThingsOut/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingThingsOut/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingThingsOut/BuilderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +23,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -87,14 +89,27 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="JAExercise2" />
       <recent name="JAExercise25" />
       <recent name="JAExercise24" />
       <recent name="JAExercise23" />
       <recent name="JAExercise22" />
-      <recent name="JAExercise16" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JAExercise30.Main">
+    <configuration name="JAExercise30.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAExercise30.Main" />
+      <module name="AllExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAExercise30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JAExercise29.Main" />
       <module name="AllExercises" />
@@ -108,8 +123,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingThingsOut.MainTest" />
+      <module name="AllExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestingThingsOut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AllExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAExercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAExercise2" />
+      <option name="MAIN_CLASS_NAME" value="JAExercise2.CharCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharCheckerTest.checkIfCharacterisInRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AllExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAExercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JAExercise2" />
+      <option name="MAIN_CLASS_NAME" value="JAExercise2.CharCheckerTest" />
+      <option name="METHOD_NAME" value="checkIfCharacterisInRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JAExercise30.Main" />
+        <item itemvalue="JUnit.CharCheckerTest" />
+        <item itemvalue="JUnit.CharCheckerTest.checkIfCharacterisInRange" />
+        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -122,22 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699284849357</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Exercise 9 JA: HashSet">
-      <option name="closed" value="true" />
-      <created>1701446856443</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1701446856443</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Exercise 9 JA: HashSet">
-      <option name="closed" value="true" />
-      <created>1701446946999</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1701446946999</updated>
     </task>
     <task id="LOCAL-00044" summary="Exercise 9 JA: HashSet">
       <option name="closed" value="true" />
@@ -515,7 +562,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702813857852</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Exercise 29 JA: Design Patterns - Factory">
+      <option name="closed" value="true" />
+      <created>1702906420031</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1702906420031</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Exercise 29 JA: Design Patterns - Factory">
+      <option name="closed" value="true" />
+      <created>1702906453208</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1702906453208</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercise 5 JA: Nullability (aggiornato anche es. 3)" />
     <MESSAGE value="Exercise 6 JA: Autoboxing and Unboxing" />
     <MESSAGE value="Exercise 7 JA: HashSet" />
     <MESSAGE value="Exercise 8 JA: HashSet" />
@@ -561,7 +623,8 @@
     <MESSAGE value="Exercise 26 JA: Test OperazioneAritmetica" />
     <MESSAGE value="Exercise 27 JA: Operatore Ternario" />
     <MESSAGE value="Exercise 28 JA: Operatore Ternario 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 28 JA: Operatore Ternario 2" />
+    <MESSAGE value="Exercise 29 JA: Design Patterns - Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 29 JA: Design Patterns - Factory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -575,6 +638,16 @@
           <url>file://$PROJECT_DIR$/src/Exercise9/Forma.java</url>
           <line>4</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAExercise2/CharCheckerTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JAExercise30/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
